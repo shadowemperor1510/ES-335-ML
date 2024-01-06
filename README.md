@@ -1,1 +1,2 @@
-# ES-335-ML
+# ES 335 : Machine Learning 
+###Course at IITGN
